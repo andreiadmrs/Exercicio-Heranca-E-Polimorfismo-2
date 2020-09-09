@@ -1,0 +1,11 @@
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\bin\Debug\netcoreapp2.1\HerancaEPolimorfismo2.deps.json
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\bin\Debug\netcoreapp2.1\HerancaEPolimorfismo2.runtimeconfig.json
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\bin\Debug\netcoreapp2.1\HerancaEPolimorfismo2.runtimeconfig.dev.json
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\bin\Debug\netcoreapp2.1\HerancaEPolimorfismo2.dll
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\bin\Debug\netcoreapp2.1\HerancaEPolimorfismo2.pdb
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\obj\Debug\netcoreapp2.1\HerancaEPolimorfismo2.csprojAssemblyReference.cache
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\obj\Debug\netcoreapp2.1\HerancaEPolimorfismo2.csproj.CoreCompileInputs.cache
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\obj\Debug\netcoreapp2.1\HerancaEPolimorfismo2.AssemblyInfoInputs.cache
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\obj\Debug\netcoreapp2.1\HerancaEPolimorfismo2.AssemblyInfo.cs
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\obj\Debug\netcoreapp2.1\HerancaEPolimorfismo2.dll
+C:\Users\Andie\Documents\csharp\HerancaEPolimorfismo2\HerancaEPolimorfismo2\obj\Debug\netcoreapp2.1\HerancaEPolimorfismo2.pdb
